@@ -48,3 +48,4 @@ int main(void) {
 // b) realiza tres llamdas recursivas
 // c) turtleLeft permite recuperar la orientacion original
 // utilice chat gpt y los promps fueron para que explique el codigo y que me ayuda a poner generar el reto 1 , le pedi que me lo explique , tambien lo use para que me ayude a compilar
+//#honestidad
